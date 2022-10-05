@@ -2,4 +2,6 @@ body {background-color: black; text-align: center;}
 h1 {color: white;}
 h2 {color: white;}
 h3 {color: lightgray;}
-h4 {color: aquamarine;}
+h4 {color: aquamarine; cursor: pointer;}
+
+p6 img{display: block;}
