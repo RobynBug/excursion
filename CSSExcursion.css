@@ -1,7 +1,8 @@
-body {background-color: black; text-align: center;}
-h1 {color: white;}
-h2 {color: white;}
-h3 {color: lightgray;}
-h4 {color: aquamarine; cursor: pointer;}
+body {background-color: black; text-align: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+h1 {color: white; font-size: 55px;}
+h2 {color: white; font-size: 40px;}
+h3 {color: gray; font-size: 25px;}
+h4 {color: aquamarine; cursor: pointer; font-size: 20px;}
 
-p6 img{display: block;}
+p6 img phone {display: block; text-align: center;}
+h5 {color: lightgray; font-size: 20px; text-align: right;}
